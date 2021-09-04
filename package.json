@@ -1,0 +1,18 @@
+{
+  "name": "html5-parcel2-boilerplate",
+  "version": "1.0.0",
+  "description": "Simple HTML5 boilerplate for modern and blazing fast performance packed with power of new Parcel Bundler v2.",
+  "keywords": ["html5", "html5 boilerplate", "html boilerplate", "parcel html5", "parcel"],
+  "license": "MIT",
+  "author": "Muneeb Ur Rehman (muneebbug)",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "@parcel/packager-raw-url": "2.0.0-rc.0",
+    "@parcel/transformer-image": "2.0.0-rc.0",
+    "@parcel/transformer-webmanifest": "2.0.0-rc.0",
+    "parcel": "latest"
+  }
+}
