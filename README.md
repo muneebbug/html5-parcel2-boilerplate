@@ -9,23 +9,33 @@ fast, robust, and adaptable web apps or sites.
 ## Quick start
 Clone the git repo by
 
-`git clone https://github.com/muneebbug/html5-parcel2-boilerplate`
+```bash
+git clone https://github.com/muneebbug/html5-parcel2-boilerplate
+```
 
 Navigate to directory
 
-`cd html5-parcel2-boilerplate`
+```bash
+cd html5-parcel2-boilerplate
+```
 
 Start the dev server by
 
-`yarn dev`
+```bash
+yarn dev
+```
 
 or Start by
 
-`yarn start`
+```bash
+yarn start
+```
 
 build using
 
-`yarn build`
+```bash
+yarn build
+```
 
 
 ## Features
