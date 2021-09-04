@@ -6,6 +6,7 @@
   "license": "MIT",
   "author": "Muneeb Ur Rehman (muneebbug)",
   "scripts": {
+     "dev": "parcel index.html --open",
     "start": "parcel index.html",
     "build": "parcel build index.html"
   },
